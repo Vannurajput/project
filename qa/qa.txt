@@ -1,1 +1,1 @@
-hello v2 from MuulBrowser QA (GIT-02)
+hello v3 from MuulBrowser QA (cache test)
